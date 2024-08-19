@@ -1,0 +1,8 @@
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.RazorAssemblyInfo.cache
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.RazorAssemblyInfo.cs
+C:\Users\FA507XV\Desktop\Task Folder\FirstMVC\obj\Debug\net8.0\FirstMVC.sourcelink.json
